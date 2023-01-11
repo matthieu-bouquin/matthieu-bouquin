@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Matthieu</h1>
 
-<!--
-**matthieu-bouquin/matthieu-bouquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">FullStack Developer</h3>
 
-Here are some ideas to get you started:
+<h3>Who am I?</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org/parcours/developpeur-web)
+- 🌱 I’m currently learning Javascript & React.js 
+- 💬 Ask me about anything
+- 📫 How to reach me: matthieu.bouquin@ik.me
+- ⚡ Fun fact: winemaker and sailor
+
+<h3>Languages and Tools</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,ruby,rails,postgres,git,github,heroku,figma,linux" />
+</a>
+ 
