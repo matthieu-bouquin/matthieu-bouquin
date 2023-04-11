@@ -12,6 +12,6 @@
 
 <h3>Languages and Tools</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,ruby,rails,postgres,git,github,heroku,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,nextjs,ruby,rails,postgres,git,github,heroku,figma,linux" />
 </a>
  
