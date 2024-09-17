@@ -4,7 +4,6 @@
 
 <h3>Who am I?</h3>
 
-- 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org/parcours/developpeur-web)
 - 🌱 I’m currently learning Javascript & React.js 
 - 💬 Ask me about anything
 - 📫 How to reach me: matthieu.bouquin@ik.me
